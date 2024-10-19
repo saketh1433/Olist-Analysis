@@ -1,13 +1,19 @@
 # Optimization of Sales and Customer Payment Analysis in Brazilian E-Commerce
 
-##Project Overview
+## Project Overview
+
 This project analyzes the Brazilian e-commerce landscape using customer, product, and delivery data from Olist, a leading Brazilian e-commerce platform. Our aim is to optimize business processes such as sales performance, payment preferences, and customer satisfaction using data analytics techniques. The dataset used spans from 2016 to 2018, providing insights into patterns in customer behavior, sales trends, and logistics.
 
 ## Team Members
+
 • Achinthya Sreedha
+
 • Bilvika Basetty
+
 • Kaushiki Tiwary
+
 • Saketh Bollina
+
 • Crystal Leatvanich
 
 ## Data Source
